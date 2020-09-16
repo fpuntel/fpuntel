@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+<div align="center" >
+
+[![FPUNTEL's github stats](https://github-readme-stats.vercel.app/api?username=fpuntel&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fpuntel&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
+
+- Meu canal no youtube: [FERNANDO](https://www.youtube.com/c/fpuntel)
+- Meu LinkedIn: [FERNANDO](https://www.linkedin.com/in/fernandopuntel/)
+
 <!--
 **fpuntel/fpuntel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
