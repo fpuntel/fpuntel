@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Professor substituto da UFSM e professor da Antonio Meneghetti Faculdade. Já ministrei disciplinas de Algoritmos e Programação, Desenvolvimento Web, Engenharia de Software e Redes de Computadores. 
+Professor na professor da [Antonio Meneghetti Faculdade](https://faculdadeam.edu.br/) e doutorando em [Computação na UFPel](https://ppgc.ufpel.edu.br/). Já ministrei disciplinas de Algoritmos e Programação, Desenvolvimento Web, Engenharia de Software e Redes de Computadores. 
 
 <div align="center" >
 
