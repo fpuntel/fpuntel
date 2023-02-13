@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Líder técnico no [DEVinHouse](https://devinhouse.tech/) do Senai-SC. Professor do curso de Sistemas de Informação na [Antonio Meneghetti Faculdade](https://faculdadeam.edu.br/) e doutorando em [Computação na UFPel](https://ppgc.ufpel.edu.br/). Já ministrei disciplinas de Algoritmos e Programação, Desenvolvimento Web, Engenharia de Software e Redes de Computadores. 
+Líder técnico no [LAB365](https://lab365.tech/) do Senai-SC. Professor do curso de Sistemas de Informação na [Antonio Meneghetti Faculdade](https://faculdadeam.edu.br/) e doutorando em [Computação na UFPel](https://ppgc.ufpel.edu.br/). Já ministrei disciplinas de Algoritmos e Programação, Desenvolvimento Web, Engenharia de Software e Redes de Computadores. 
 
 <div align="center" >
 
